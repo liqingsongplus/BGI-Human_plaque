@@ -1,4 +1,4 @@
-# BGI-Human_plaque
+> # BGI-Human_plaque
 The file "0_QC.R" is a scRNA-seq data quality control script.
 The file "1_harmony.R" is a script for scRNA integration, batch effect removal, clustering, and grouping.
 The file "2_sterero-seq_annotation.R" is a script that utilizes scRNA annotation data to assist in cell annotation for Stereo-seq.
